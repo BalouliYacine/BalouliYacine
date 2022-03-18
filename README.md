@@ -13,13 +13,11 @@
 
 - 📫 How to reach me **cjvfyv@gmail.com**
 
-
-
 <div>
   <a href="https://github.com/migsilva89/">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=migsilva89&show_icons=true&include_all_commits=true&theme=slateorange&                hide_border=true&count_private=true">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=BalouliYacine&show_icons=true&include_all_commits=true&theme=slateorange&                hide_border=true&count_private=true">
 
-  <img height="150em" width="320em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=migsilva89&layout=compact&theme=slateorange&include_all_commits=true&count_private=true">
+  <img height="150em" width="320em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BalouliYacine&layout=compact&theme=slateorange&include_all_commits=true&count_private=true">
     
 </div>
 
@@ -80,11 +78,4 @@
             alt="mongodb" width="40" height="40" />
     </a>
 </p>
-
-<p><img align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=balouliyacine&show_icons=true&locale=en&layout=compact"
-        alt="balouliyacine" /></p>
-<p>&nbsp;<img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=balouliyacine&show_icons=true&locale=en"
-        alt="balouliyacine" /></p>
 
