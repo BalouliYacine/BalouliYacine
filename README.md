@@ -74,10 +74,7 @@
 <p><img align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=balouliyacine&show_icons=true&locale=en&layout=compact"
         alt="balouliyacine" /></p>
-
 <p>&nbsp;<img align="center"
         src="https://github-readme-stats.vercel.app/api?username=balouliyacine&show_icons=true&locale=en"
         alt="balouliyacine" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=balouliyacine&"
-        alt="balouliyacine" /></p>
