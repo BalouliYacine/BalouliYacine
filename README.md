@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Balouli Yacine</h1>
 <h3 align="center">A Full Stack MERN Developer.</h3>
 
-<p align="left"> <img
-        src="https://komarev.com/ghpvc/?username=balouliyacine&label=Profile%20views&color=0e75b6&style=flat"
-        alt="balouliyacine" /> </p>
-
 - 🔭 I’m currently working on [Password Checker/ Generator](https://dyd-passwords.netlify.app/)
 
 - 🌱 I’m currently learning **REACTjs**
