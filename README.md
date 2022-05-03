@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Balouli Yacine</h1>
 <h3 align="center">A Full Stack MERN Developer.</h3>
 
-- 🔭 I’m currently working on [Password Checker/ Generator](https://dyd-passwords.netlify.app/)
 
 - 🌱 I’m currently learning **REACTjs**
 
 - 👨‍💻 All of my projects are available at [https://www.dyacinedev.com/](https://www.dyacinedev.com/)
 
 - 📫 How to reach me **cjvfyv@gmail.com**
+
+- 🔭 I’m currently working on [Password Checker/ Generator](https://dyd-passwords.netlify.app/)
+
 
 <div>
   <a href="https://github.com/BalouliYacine/">
